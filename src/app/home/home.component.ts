@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   standalone: true
 })
 export class HomeComponent {
-
+  public developerName: string = 'Marcelo Barbosa' 
 }
